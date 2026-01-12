@@ -285,7 +285,8 @@ export default function BirthdayPage() {
                   className="text-3xl md:text-4xl text-[#d4697a] animate-fade-in"
                   style={{ fontFamily: "Great Vibes, cursive" }}
                 >
-                  You Matter
+                  You Matter, the most for me, you are the most special person in my life. Wishing you a day filled with love, joy, and all the happiness you bring to others every day.
+                  Happy Birthday My Love! 
                 </p>
               </div>
 
